@@ -28,7 +28,7 @@ The data set contains 6 columns but for classification of tweets, we only requir
   <li>Vectorization: TFIDF and Glove.</li>
 </ol>
 
-<h4> Evaluation Methodolgy </h4>
+<h3> Evaluation Methodolgy </h3>
 
 After training the model with 85% of the data, we test the model with 15% of the data and evaluate its performance using different metrics such as Accuracy, Classification Report, and Receiver Operative Characteristic (ROC) curve.
 
